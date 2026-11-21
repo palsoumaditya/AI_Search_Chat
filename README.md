@@ -1,4 +1,4 @@
-# CalQuity AI Search Chat & PDF Citation Viewer
+# AI Search Chat & PDF Citation Viewer
 
 A production-ready, full-stack AI search interface inspired by Perplexity. This application features real-time streaming of AI responses, generative UI components, and an interactive PDF viewer that highlights cited sources.
 
@@ -63,8 +63,8 @@ This allows you to spin up the frontend and backend with a single command.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/calquity-ai-search.git](https://github.com/your-username/calquity-ai-search.git)
-    cd calquity-ai-search
+    git clone [https://github.com/your-username/ai-search.git](https://github.com/your-username/ai-search.git)
+    cd ai-search
     ```
 
 2.  **Set up environment variables:**
